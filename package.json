@@ -1,0 +1,15 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "creating database ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth",
+  "license": "ISC",
+  "dependencies": {
+    "database": "file:",
+    "mongodb": "^6.10.0"
+  }
+}
